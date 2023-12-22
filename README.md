@@ -1,4 +1,5 @@
-# Tableau Dashboard for Netflix Movies and TV Shows
+# Tableau Dashboard for Netflix Movies and TV Shows 
+# Check it out at https://asm3515.github.io/Netflix_Dashboard/
 
 Welcome to the Tableau Dashboard for Netflix Movies and TV Shows! This dashboard provides a comprehensive view of Netflix's vast library of movies and TV shows, allowing users to explore and analyze the available content.
 
@@ -53,5 +54,6 @@ We welcome your feedback! If you have suggestions, find issues, or want to contr
 
 Happy exploring!
 
+![Tableau Dashboard](Netflix_DashBoard.png)
 
 **Note:** This README is a template, and you may need to customize it based on your specific dashboard and data characteristics.
