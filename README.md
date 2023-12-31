@@ -56,4 +56,3 @@ Happy exploring!
 
 ![Tableau Dashboard](Netflix_DashBoard.png)
 
-**Note:** This README is a template, and you may need to customize it based on your specific dashboard and data characteristics.
